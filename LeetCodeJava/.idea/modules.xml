@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-TwoSum/1-TwoSum.iml" filepath="$PROJECT_DIR$/1-TwoSum/1-TwoSum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1071. Greatest Common Divisor of Strings/1071. Greatest Common Divisor of Strings.iml" filepath="$PROJECT_DIR$/1071. Greatest Common Divisor of Strings/1071. Greatest Common Divisor of Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13.Roman to Integer/13.Roman to Integer.iml" filepath="$PROJECT_DIR$/13.Roman to Integer/13.Roman to Integer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1431. Kids With the Greatest Number of Candies/1431. Kids With the Greatest Number of Candies.iml" filepath="$PROJECT_DIR$/1431. Kids With the Greatest Number of Candies/1431. Kids With the Greatest Number of Candies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/151. Reverse Words in a String/151. Reverse Words in a String.iml" filepath="$PROJECT_DIR$/151. Reverse Words in a String/151. Reverse Words in a String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1768. Merge Strings Alternately/1768. Merge Strings Alternately.iml" filepath="$PROJECT_DIR$/1768. Merge Strings Alternately/1768. Merge Strings Alternately.iml" />
+      <module fileurl="file://$PROJECT_DIR$/283. Move Zeroes/283. Move Zeroes.iml" filepath="$PROJECT_DIR$/283. Move Zeroes/283. Move Zeroes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/713. Subarray Product Less Than K/713. Subarray Product Less Than K.iml" filepath="$PROJECT_DIR$/713. Subarray Product Less Than K/713. Subarray Product Less Than K.iml" />
+      <module fileurl="file://$PROJECT_DIR$/75. Sort Colors/75. Sort Colors.iml" filepath="$PROJECT_DIR$/75. Sort Colors/75. Sort Colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/80. Remove Duplicates from Sorted Array II/80. Remove Duplicates from Sorted Array II.iml" filepath="$PROJECT_DIR$/80. Remove Duplicates from Sorted Array II/80. Remove Duplicates from Sorted Array II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/88. Merge Sorted Array/88. Merge Sorted Array.iml" filepath="$PROJECT_DIR$/88. Merge Sorted Array/88. Merge Sorted Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/925. Long Pressed Name/925. Long Pressed Name.iml" filepath="$PROJECT_DIR$/925. Long Pressed Name/925. Long Pressed Name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
+    </modules>
+  </component>
+</project>
